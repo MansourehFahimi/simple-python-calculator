@@ -15,7 +15,7 @@ This is a basic calculator written in Python.
 - Python 3.12
 - Math Library
 
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 # GUI Calculator:
 This is an advanced calculator with a graphical user interface (GUI) built using Python and Tkinter.  
